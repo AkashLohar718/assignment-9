@@ -1,0 +1,16 @@
+.body{
+    margin: 0px;
+padding: 0px;}
+.navbar{
+    background-color: black;
+    height: 20px;
+    padding: 15px 0px;
+}
+.nav1{
+    color: black;
+    background-color:  white;
+    margin: 5px 5px 5px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 2px 5px;
+}
